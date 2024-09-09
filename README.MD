@@ -6,4 +6,14 @@
 ###### Cabecera H6
 
 
-Soy un readme.
+Underline 1
+-----------
+Underline 2
+===========
+
+- Letra *italica* de la primera forma.
+- Letra _italica_ de la segunda forma.
+- Formato **Bolt** o __Strong__
+- Formato ~~tachado~~
+- Usamos ~~***italico, bolt y tachado***~~
+
