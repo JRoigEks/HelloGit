@@ -68,3 +68,16 @@ Underline 2
 
  Esto es otro text que será dividido por giones bajos
 
+ ___
+ 
+ # Saltos de linea
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+- 1
+- 2
+
+
