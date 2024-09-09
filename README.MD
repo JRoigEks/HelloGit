@@ -56,4 +56,15 @@ Underline 2
 
  Esto es otro texto que no se relaciona con la cita anterior
  > Esto es otra cita
- 
+
+ # Lineas divisoras
+ Esto es un texto que será dividido guiones
+
+ ---
+
+ Esto es otro text que será dividido por asteriscos
+
+ ***
+
+ Esto es otro text que será dividido por giones bajos
+
